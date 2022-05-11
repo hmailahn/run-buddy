@@ -22,8 +22,10 @@ Learn more about run buddy, their trainers, and contact run buddy for more infor
 * CSS
 
 ## Screenshot
+![image](https://github.com/hmailahn/run-buddy/blob/main/screencapture-hmailahn-github-io-run-buddy-2022-05-11-13_40_14.png)
 
 ## Repository
+https://github.com/hmailahn/run-buddy
 
 ## Deployed-Project
 https://hmailahn.github.io/run-buddy/
